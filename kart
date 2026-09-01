@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#101827">
+<title>Q E-İmza | Dijital Kart</title>
+<style>
+*{box-sizing:border-box}body{margin:0;font-family:Inter,Arial,sans-serif;background:#f6f7fb;color:#111827}.hero{background:radial-gradient(circle at 25% 0%,#34435c 0,#172235 38%,#0b111b 100%);padding:34px 18px 72px;text-align:center;color:#fff}.brand{display:flex;align-items:center;justify-content:center;gap:12px;margin:auto}.mark{width:58px;height:58px;border:5px solid #eef2f7;border-radius:50%;position:relative}.mark:before{content:"";position:absolute;left:-6px;right:-6px;top:23px;height:5px;background:#eef2f7}.mark:after{content:"";position:absolute;width:16px;height:16px;border-radius:50%;background:#eef2f7;right:-10px;bottom:-8px}.brandtext{font-size:36px;font-weight:800;letter-spacing:-1.5px}.badge{display:inline-block;margin-top:18px;padding:7px 13px;border:1px solid #ffffff35;border-radius:999px;background:#ffffff12;font-size:13px}h1{font-size:20px;line-height:1.35;margin:16px auto 5px;max-width:620px}.sub{opacity:.75;font-size:14px}.wrap{max-width:620px;margin:-42px auto 40px;padding:0 15px}.card{background:#fff;border-radius:24px;padding:20px;box-shadow:0 14px 45px #0b12201c;margin-bottom:14px}.actions{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.btn{text-decoration:none;color:#172235;background:#f3f5f8;border:1px solid #e6e9ef;border-radius:16px;padding:15px 8px;text-align:center;font-weight:700;font-size:13px}.btn span{display:block;font-size:24px;margin-bottom:6px}.primary{background:#6b3df0;color:#fff;border-color:#6b3df0}h2{font-size:16px;margin:2px 0 14px}.row{padding:12px 0;border-bottom:1px solid #edf0f4;line-height:1.5;font-size:14px}.row:last-child{border:0}.services{display:flex;gap:9px;flex-wrap:wrap}.service{background:#f2edff;color:#5630c7;padding:10px 13px;border-radius:12px;font-weight:700}.ark{border-left:4px solid #6b3df0;background:#faf8ff}.footer{text-align:center;color:#7a8494;font-size:12px;padding:8px 10px 30px}@media(max-width:390px){.actions{grid-template-columns:repeat(2,1fr)}h1{font-size:18px}.brandtext{font-size:31px}}
+</style>
+</head>
+<body>
+<section class="hero">
+<div class="brand"><div class="mark"></div><div class="brandtext">Q e-imza</div></div>
+<div class="badge">Dijital Dönüşüm Çözümleri</div>
+<h1>Q E-İMZA E-DÖNÜŞÜM TEKNOLOJİLERİ VE İNOVASYON LİMİTED ŞİRKETİ</h1>
+<div class="sub">E-İmza • KEP</div>
+</section>
+<main class="wrap">
+<section class="card"><div class="actions">
+<a class="btn primary" href="tel:+905330735790"><span>☎</span>GSM Ara</a>
+<a class="btn" href="tel:+908504419088"><span>☎</span>Sabit Hat</a>
+<a class="btn" href="https://wa.me/905330735790"><span>💬</span>WhatsApp</a>
+<a class="btn" href="mailto:info@q-eimza.com.tr"><span>✉</span>E-posta</a>
+<a class="btn" href="https://www.google.com/maps/search/?api=1&query=Q%20E%20%C4%B0MZA%20E%20D%C3%96N%C3%9C%C5%9E%C3%9CM%20TEKNOLOJ%C4%B0LER%C4%B0%20%C4%B0NOVASYON%2C%20Perpa%20Ticaret%20Merkezi%20B%20Blok%20Kat%2013%20No%202284%2C%20%C5%9Ei%C5%9Fli%20%C4%B0stanbul&query_place_id=ChIJkZk3hqm3yhQRiqCeSoIAyz4" target="_blank"><span>⌖</span>Google Maps</a>
+<a class="btn" href="https://q-eimza.com.tr" target="_blank"><span>🌐</span>Web Sitesi</a>
+<a class="btn" href="data:text/vcard;charset=utf-8,BEGIN%3AVCARD%0AVERSION%3A3.0%0AFN%3AQ%20E-%C4%B0mza%0AORG%3AQ%20E-%C4%B0MZA%20E-D%C3%96N%C3%9C%C5%9E%C3%9CM%20TEKNOLOJ%C4%B0LER%C4%B0%20VE%20%C4%B0NOVASYON%20L%C4%B0M%C4%B0TED%20%C5%9E%C4%B0RKET%C4%B0%0ATEL%3BTYPE%3DCELL%3A%2B905330735790%0ATEL%3BTYPE%3DWORK%3A%2B908504419088%0AEMAIL%3Ainfo%40q-eimza.com.tr%0AURL%3Ahttps%3A//q-eimza.com.tr%0AADR%3BTYPE%3DWORK%3A%3B%3BPERPA%20Ticaret%20Merkezi%20B%20Blok%20Kat%3A13%20No%3A2284%3B%C5%9Ei%C5%9Fli%3B%C4%B0stanbul%3B%3BT%C3%BCrkiye%0AEND%3AVCARD" download="Q-E-Imza.vcf"><span>＋</span>Rehbere Kaydet</a>
+</div></section>
+<section class="card ark"><h2>Arkİmza Yetkili Hizmet Noktası</h2><div class="row">Arkİmza markasıyla e-İmza çözümleri için satış ve destek süreçlerinde yanınızdayız.</div></section>
+<section class="card"><h2>Hizmetlerimiz</h2><div class="services"><div class="service">Elektronik İmza</div><div class="service">KEP</div></div></section>
+<section class="card"><h2>İletişim</h2><div class="row"><b>GSM</b><br>0533 073 57 90</div><div class="row"><b>Sabit Telefon</b><br>0850 441 90 88</div><div class="row"><b>E-posta</b><br>info@q-eimza.com.tr</div><div class="row"><b>Adres</b><br>PERPA Ticaret Merkezi B Blok Kat:13 No:2284 Şişli / İstanbul</div><div class="row"><b>Çalışma Saatleri</b><br>Hafta içi 09:00 – 18:00</div></section>
+<div class="footer">Q E-İmza • Güvenli dijital dönüşüm çözümleri</div>
+</main>
+</body></html>
